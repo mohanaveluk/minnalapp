@@ -52,7 +52,7 @@
     <div class="container">
         <dir class="row">
             <dir class="col-sm-12" style="background-color:#cdd6f9" >
-            <h2 > <?php echo "Home page" ?></h2>
+            <h2 > <?php echo "Home page - Demo" ?></h2>
             </div>
         </dir>
     </div>
